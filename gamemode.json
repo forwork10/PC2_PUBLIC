@@ -1,6 +1,6 @@
 {
-  "Name": "Zombie",
-  "Description": "Zombie",
+  "Name": "Test",
+  "Description": ".\nTest..",
   "StartClientVersion": 334,
   "MapFilter": {
     "IsBlank": false,
